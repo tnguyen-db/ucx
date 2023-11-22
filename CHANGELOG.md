@@ -1,5 +1,6 @@
 # Version changelog
 
+
 ## 0.5.0
 
 * Added `make install-dev` and a stronger `make clean` for easier dev on-boarding and release upgrades ([#458](https://github.com/databricks/ucx/pull/458)).
